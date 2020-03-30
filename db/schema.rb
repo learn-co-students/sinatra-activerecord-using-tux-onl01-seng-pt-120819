@@ -18,5 +18,4 @@ ActiveRecord::Schema.define(version: 20151117223101) do
     t.string "email"
     t.string "fav_icecream"
   end
-
 end
