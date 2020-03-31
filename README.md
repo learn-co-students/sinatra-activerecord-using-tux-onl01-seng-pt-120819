@@ -20,7 +20,7 @@ In the past, we've used IRB for just that. Let's try dropping into IRB and testi
 
 Open up IRB in terminal and require the file `models/user.rb`:
 
-![require models/user.rb](http://readme-pics.s3.amazonaws.com/sinatra-tux-irb-error.png)
+![require models/user.rb]()
 
 Oh no! We get an error that it doesn't recognize `ActiveRecord`. Let's try to require the ActiveRecord gem:
 ![require activerecord](http://readme-pics.s3.amazonaws.com/sinatra-tux-irb-error2.png)
